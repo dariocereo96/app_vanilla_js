@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.main {
+  width: 90%;
+  margin: auto;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background-color: mintcream;
+}
+
+.loader {
+  margin: 1rem auto;
+  display: block;
+  width: 10rem;
+  height: 10rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+article {
+  text-align: center;
+  background-color: bisque;
+  padding: 30px;
+  margin-top: 50px;
+}
+img {
+  width: 470px;
+}
